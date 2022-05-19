@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>yeb-server</module>
+        <module>yeb-generator</module>
     </modules>
     <name>yeb-master</name>
     <description>Demo project for Spring Boot</description>

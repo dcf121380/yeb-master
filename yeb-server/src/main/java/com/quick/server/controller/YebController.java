@@ -1,4 +1,4 @@
-package com.quick.servsr.controller;
+package com.quick.server.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

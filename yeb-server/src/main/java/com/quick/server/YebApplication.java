@@ -1,4 +1,4 @@
-package com.quick.servsr;
+package com.quick.server;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
